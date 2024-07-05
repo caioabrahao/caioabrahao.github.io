@@ -1,0 +1,7 @@
+svg{
+    fill: currentColor;
+}
+
+.disabled{
+    opacity: .3;
+}

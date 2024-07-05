@@ -1,0 +1,45 @@
+.h1{
+    font-size: 5.61rem;
+    font-weight: 900;
+    line-height: 100%;
+}
+
+.h2{
+    font-size: 4.209rem;
+    font-weight: 800;
+}
+
+.h3{
+    font-size: 3.157rem;
+    line-height: 100%;
+    font-weight: 800;
+}
+
+.h4{
+    font-size: 2.369rem;
+}
+
+.h5{
+    font-size: 1.777rem;
+}
+
+.h6{
+    font-size: 1.333rem;
+}
+
+.p{
+    font-size: 1rem;
+}
+
+.small{
+    font-size: 0.75rem;
+}
+
+.light{
+    font-weight: 400;
+    opacity: 0.5;
+}
+
+.right-indent{
+    direction: rtl;
+}
